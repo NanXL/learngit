@@ -5,7 +5,7 @@ git is a free software
 add dev branch
 
 
-add feature1 branch
+add feature branch
 
 
 
