@@ -1,5 +1,5 @@
 start learn git
 	
-git is free software			
+git is a free software			
 
 
