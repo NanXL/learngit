@@ -17,7 +17,7 @@
 
 	
 ![图片二][picture2] 
-[picture2]: ../../../../picture/blob/master/dbAdapter-tree.png "db协议"
+[picture2]: ../../../picture/blob/master/dbAdapter-tree.png "db协议"
 
 
 
@@ -26,4 +26,4 @@
 
 
 
-	[picture2]: ../../../../picture/blob/master/dbAdapter-tree.png "db协议"
+	[picture2]: ../../../picture/blob/master/dbAdapter-tree.png "db协议"
