@@ -20,4 +20,4 @@
 
 
 
-[picture2]: ../picture/protocols-tree.png "协议"
+[picture2]: https://github.com/NanXL/picture/blob/master/dbAdapter-tree.png "db协议"
