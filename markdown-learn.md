@@ -35,7 +35,7 @@
 
 一、插图
 
-<img src="../../../picture/blob/master/dbAdapter-tree.pngf" width="165" height="60" />
+<img src="../../../picture/blob/master/dbAdapter-tree.png" width="165" height="60" />
 
 
 
