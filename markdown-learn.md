@@ -27,3 +27,25 @@
 
 
 	[picture2]: ../../../picture/blob/master/dbAdapter-tree.png "db协议"
+
+
+
+## HTML
+
+
+一、插图
+
+<img src="../../../picture/blob/master/dbAdapter-tree.pngf" width="165" height="60" />
+
+
+
+
+
+
+
+
+
+
+
+
+
